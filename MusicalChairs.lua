@@ -1,4 +1,8 @@
 --[[
+Connected Discord-GitHub
+Discord: @spxxz
+Roblox: Rxniez [190335717]
+
 Unified Musical Chairs Match Director
 
 This script acts as the central orchestrator for the entire musical chairs game loop.
@@ -11,7 +15,7 @@ seating logic, music timing, round state transitions, intro animations, and rewa
 distribution. It also includes debugging utilities, watchdog monitoring, and recovery
 mechanisms to ensure the game remains stable and synchronized throughout continuous play.
 
-Made by: @spxxz (Discord)
+Made by: @spxxz (Discord) / @Rxniez (Roblox)
 Date: 04-05-2026
 ]]
 
