@@ -5,18 +5,14 @@ Roblox: Rxniez [190335717]
 
 Unified Musical Chairs Match Director
 
-This script acts as the central orchestrator for the entire musical chairs game loop.
-It manages the full lifecycle of matches including waiting for players, preparing rounds,
-handling intro sequences, running active gameplay phases, resolving eliminations, and
-finalizing match results.
+This scripts acts as a central controller for the entire Musical Chairs game.
+It manages the full loop of matches include waiting for players, preparing rounds,
+handling cinematic intros, running actual rounds, eliminations, and finally generating results.
 
-It coordinates multiple subsystems such as player state management, chair spawning and
-seating logic, music timing, round state transitions, intro animations, and reward
-distribution. It also includes debugging utilities, watchdog monitoring, and recovery
-mechanisms to ensure the game remains stable and synchronized throughout continuous play.
+It does this with the help of multiple subsystems.
 
 Made by: @spxxz (Discord) / @Rxniez (Roblox)
-Date: 04-05-2026
+Date: 05-07-2026
 ]]
 
 -- services
